@@ -1,0 +1,17 @@
+.requestItem {
+  display: flex;
+  padding: 0.5rem;
+  background-color: teal;
+  width: 50rem;
+  margin: 2vh;
+}
+
+.description {
+  display: flex;
+  color: white;
+  justify-content: space-around;
+  align-items: flex-end;
+  margin-right: 5vh;
+  flex-flow: column;
+  flex: 1;
+}
